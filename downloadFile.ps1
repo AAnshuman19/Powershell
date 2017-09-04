@@ -18,4 +18,4 @@ $WebClient.DownloadFile($SOURCE,$DESTINATION)
 
 
 #Calling the other unzip.script to move the file categorely and unzip
-Invoke-Expression D:\code\unzip.ps1 
+#Invoke-Expression D:\code\unzip.ps1 
